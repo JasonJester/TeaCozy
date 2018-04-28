@@ -57,11 +57,16 @@ nav span {
   flex-wrap: wrap;
   padding-top: 300px;
   display: block;
-  background-color: black;
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg");
   background-repeat: no-repeat;
   height: 700px;
   width: 1200px;
   text-align: center;
   margin: auto;
+}
+
+.image-content {
+  background-color: black;
+  font-weight: bold;
+  font-family: helvetica;
 }

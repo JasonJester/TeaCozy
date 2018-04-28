@@ -70,3 +70,63 @@ nav span {
   font-weight: bold;
   font-family: helvetica;
 }
+
+.month {
+  color: seashell;
+  text-align: center;
+}
+
+.month-image-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.fallberry img {
+  height: 200px;
+  width: 300px;
+  padding: 20px;
+}
+
+.fallberry {
+  text-align: center;
+}
+
+.spicedrum img {
+  height: 200px;
+  width: 300px;
+  padding:20px
+}
+
+.spicedrum {
+  text-align: center;
+}
+
+.donuts img {
+  height: 200px;
+  width: 300px;
+  padding: 20px;
+}
+
+.donuts {
+  text-align: center;
+}
+
+.myrtle img {
+  height: 200px;
+  width: 300px;
+  padding: 20px;
+}
+
+.myrtle {
+  text-align: center;
+}
+
+.bedford img {
+  height: 200px;
+  width: 300px;
+  padding: 20px;
+}
+
+.bedford {
+  text-align: center;
